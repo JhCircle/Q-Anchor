@@ -13,8 +13,8 @@
 
 </div>
 
-<p align="center"><strong>📧 Contact:</strong><a href="mailto:jhyuan.cs@gmail.com">jhyuan.cs@gmail.com</a> ·<a href="mailto:baokun.wbk@antgroup.com">baokun.wbk@antgroup.com</a></p>
-
+<p align="center"><strong>📧 Contact:</strong><a href="mailto:jhyuan.cs@gmail.com">jhyuan.cs@gmail.com</a>
+  
 <p align="center">
 <img src="./assets/Query-as-Anchor.png" align="center" width="90%">
 </p>
