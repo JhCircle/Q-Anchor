@@ -13,7 +13,7 @@
 
 </div>
 
-<p align="center"><strong>📧 Contact:</strong><a href="mailto:jhyuan.cs@gmail.com">jamse_yuan@163.com</a>
+<p align="center"><strong>📧 Contact:</strong><a href="mailto:jamse_yuan@163.com">jamse_yuan@163.com</a>
   
 <p align="center">
 <img src="./assets/Query-as-Anchor.png" align="center" width="90%">
