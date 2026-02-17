@@ -5,9 +5,12 @@
 </h2>
 
 <h4>🔗 We introduce <strong>Query-as-Anchor</strong>: one model, many scenarios — dynamic user understanding through query-conditioned representation 🎯</h4>
+
 [![Paper](https://img.shields.io/badge/arXiv-2602.14492-b31b1b.svg)](https://arxiv.org/abs/2602.14492)
 ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Q-Anchor?style=social)
-[![Daily Paper 🤗](https://img.shields.io/badge/Daily%20Paper-🤗-blue)](https://huggingface.co/papers/2602.14492)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Q--Anchor-orange.svg)](https://huggingface.co/papers/2602.14492)
+[![Ant Group](https://img.shields.io/badge/Ant%20Group-🐜-blue.svg)](https://www.antgroup.com)
+
 </div>
 
 <p align="center"><strong>📧 Contact:</strong><a href="mailto:jhyuan.cs@gmail.com">jhyuan.cs@gmail.com</a> ·<a href="mailto:baokun.wbk@antgroup.com">baokun.wbk@antgroup.com</a></p>
