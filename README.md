@@ -23,7 +23,7 @@
 
 ## 🔥 News
 * `2026.02` 🎉 Our [*Query-as-Anchor*](https://arxiv.org/abs/2602.14492) paper has been released on arXiv — check it out now!  
-  > 💻 **Code demo coming soon — stay tuned!**
+  > 💻 **Public code demo available now ~**
 
 ---
 
