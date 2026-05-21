@@ -22,6 +22,8 @@
 ---
 
 ## 🔥 News
+* `2026.05` 🎉 Our [*Query-as-Anchor*](https://arxiv.org/abs/2602.14492) paper has been accepted to KDD 2026 ADS Track! 
+
 * `2026.02` 🎉 Our [*Query-as-Anchor*](https://arxiv.org/abs/2602.14492) paper has been released on arXiv — check it out now!  
   > 💻 **Public code demo available now !**
 
